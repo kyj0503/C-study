@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("�׽�Ʈ�Դϴ�");
+	printf("테스트입니다");
 
 	return 0;
 }
